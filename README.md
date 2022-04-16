@@ -1,1 +1,0 @@
-# psevdo_class
